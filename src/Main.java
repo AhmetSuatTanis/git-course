@@ -4,10 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello World");
-        System.out.println("Şu an first Branch'in içindeyim");
-        System.out.println("Şu an first Branch'in içindeyim");
-        System.out.println("Şu an first Branch'in içindeyim");
-        System.out.println("Şu an first Branch'in içindeyim");
+        System.out.println("Kendi kendime oluşturduğum branch");
+
 
 
 
