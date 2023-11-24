@@ -7,6 +7,10 @@ public class Main {
         System.out.println("Kendi kendime oluşturduğum branch");
         System.out.println("Bu değişiklik Chrome üzerinden githubda yapıldı");
 
+        System.out.println("deneme değişiklik");
+
+        System.out.println("CUMA günü değişiklikler ");
+
 
 
 
