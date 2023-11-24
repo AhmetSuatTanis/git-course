@@ -19,6 +19,10 @@ public class Main {
         String city6 = "Ankara";
         String city7 = "Samsun";
         String city8 = "Bursa";
+        String city9 = "Ordu";
+        String city10 = "Sivas";
+        
+        
 
         int carPlakaCode = 34;
         int carPlakaCode6 = 06;
