@@ -6,6 +6,8 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Kendi kendime oluşturduğum branch");
 
+        System.out.println("Cuma günü branch değişikliği");
+
 
 
 
