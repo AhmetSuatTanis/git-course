@@ -24,6 +24,9 @@ public class Main {
         
         
 
+        int carPlakaCode = 34;
+        int carPlakaCode6 = 06;
+
 
     }
 }
