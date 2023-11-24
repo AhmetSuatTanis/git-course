@@ -20,6 +20,9 @@ public class Main {
         String city7 = "Samsun";
         String city8 = "Bursa";
 
+        int carPlakaCode = 34;
+        int carPlakaCode6 = 06;
+
 
     }
 }
