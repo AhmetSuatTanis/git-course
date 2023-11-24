@@ -10,6 +10,10 @@ public class Main {
         System.out.println("deneme değişiklik");
 
         System.out.println("CUMA günü değişiklikler ");
+        System.out.println("CUMA1 günü değişiklikler ");
+        System.out.println("CUMA2 günü değişiklikler ");
+        System.out.println("CUMA3 günü değişiklikler ");
+        
 
 
 
