@@ -12,6 +12,8 @@ public class Main {
         System.out.println("CUMA günü değişiklikler ");
 
 
+        System.out.println("Cuma günü branch değişikliği");
+
 
 
 
