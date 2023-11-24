@@ -11,8 +11,8 @@ public class Main {
 
         System.out.println("CUMA günü değişiklikler ");
 
-
-
+        String city = "Istanbul";
+        String city6 = "Ankara";
 
 
     }
